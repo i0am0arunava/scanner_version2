@@ -12,8 +12,8 @@ export default defineConfig({
       },
       registerType: 'autoUpdate',
       manifest: {
-        name: "Sport News application",
-        short_name: "Sport News",
+        name: "UemEv-Scanner",
+        short_name: "Event Scanner",
         icons: [
         
           {
